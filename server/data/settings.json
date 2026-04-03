@@ -1,0 +1,15 @@
+{
+  "allowedDomain": "@vit",
+  "idPattern": "^secure-\\d{3}",
+  "lockdown": false,
+  "sectors": [
+    "HR",
+    "Finance",
+    "IT",
+    "Legal",
+    {
+      "name": "innovit",
+      "level": "Critical"
+    }
+  ]
+}

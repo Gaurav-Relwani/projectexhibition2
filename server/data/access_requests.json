@@ -1,0 +1,102 @@
+[
+  {
+    "id": "16b608b0-8e6b-420c-9319-b42ae9204d36",
+    "userId": "10d2b1a1-1999-46dd-8abf-4cb106f0e8a6",
+    "username": "AGT-009@vit",
+    "fullName": "gaurav relwani",
+    "department": "HR",
+    "duration": 30,
+    "reason": "wd",
+    "status": "Approved",
+    "requestedAt": "2026-02-03T17:09:07.390Z",
+    "approvedAt": "2026-02-03T17:10:13.046Z",
+    "expiresAt": "2026-02-03T17:40:13.046Z"
+  },
+  {
+    "id": "4b0b7634-75d9-4c5e-9e65-3d45784cfd42",
+    "userId": "0f9d4400-a746-4ac7-b9b1-528e955a278c",
+    "username": "AGT-098@vit",
+    "fullName": "ayusha",
+    "department": "HR",
+    "duration": 30,
+    "reason": "new recutment",
+    "status": "Approved",
+    "requestedAt": "2026-02-03T17:29:42.551Z",
+    "approvedAt": "2026-02-03T17:29:51.133Z",
+    "expiresAt": "2026-02-03T17:59:51.133Z"
+  },
+  {
+    "id": "d03aff8e-eaa8-4c02-8987-9564d206039a",
+    "userId": "c8accb75-c8d9-49a9-beec-61f5273d5a8f",
+    "username": "AGT-001@vit",
+    "fullName": "harsh",
+    "department": "HR",
+    "duration": "30",
+    "reason": "dasgsdfaa",
+    "status": "Approved",
+    "requestedAt": "2026-02-05T15:54:12.906Z",
+    "approvedAt": "2026-02-05T16:29:06.713Z",
+    "expiresAt": "2026-02-05T16:59:06.713Z"
+  },
+  {
+    "id": "0f30bae2-8e57-4426-a161-087070719784",
+    "userId": "c8accb75-c8d9-49a9-beec-61f5273d5a8f",
+    "username": "AGT-001@vit",
+    "fullName": "harsh",
+    "department": "HR",
+    "duration": "30",
+    "reason": "1asfdggfh",
+    "status": "Approved",
+    "requestedAt": "2026-02-05T16:13:02.451Z",
+    "approvedAt": "2026-02-05T16:29:07.741Z",
+    "expiresAt": "2026-02-05T16:59:07.741Z"
+  },
+  {
+    "id": "88237e8e-2087-4b2e-a885-f841a9867164",
+    "userId": "c8accb75-c8d9-49a9-beec-61f5273d5a8f",
+    "username": "AGT-001@vit",
+    "fullName": "harsh",
+    "department": "HR",
+    "duration": 30,
+    "reason": "hsfvjfm",
+    "status": "Approved",
+    "requestedAt": "2026-02-07T11:21:33.772Z",
+    "approvedAt": "2026-02-07T11:21:49.229Z",
+    "expiresAt": "2026-02-07T11:51:49.229Z"
+  },
+  {
+    "id": "f37dfe26-ae0f-4c7a-be43-5707c6778625",
+    "userId": "c8accb75-c8d9-49a9-beec-61f5273d5a8f",
+    "username": "AGT-001@vit",
+    "fullName": "harsh",
+    "department": "HR",
+    "duration": 30,
+    "reason": "check",
+    "status": "Approved",
+    "requestedAt": "2026-02-09T18:04:46.354Z",
+    "approvedAt": "2026-02-09T18:13:52.049Z",
+    "expiresAt": "2026-02-09T18:43:52.049Z"
+  },
+  {
+    "id": "f565f447-ddd5-4d45-a54b-9f5fba927dce",
+    "userId": "362b752b-a1bd-4be0-a725-fd6f8e69806d",
+    "username": "secure-002@vit",
+    "department": "HR",
+    "duration": 30,
+    "reason": "access all the file ",
+    "status": "Approved",
+    "requestedAt": "2026-02-12T13:28:54.488Z",
+    "expiresAt": "2026-02-12T13:59:18.786Z"
+  },
+  {
+    "id": "70db700b-7e7c-4081-b276-b4cbe37dc215",
+    "userId": "270116c8-86c2-42b7-8d6f-ff9153ebbd7f",
+    "username": "secure-003@vit",
+    "department": "HR",
+    "duration": 30,
+    "reason": "mkc access de",
+    "status": "Approved",
+    "requestedAt": "2026-02-13T16:29:35.246Z",
+    "expiresAt": "2026-02-13T17:00:38.338Z"
+  }
+]

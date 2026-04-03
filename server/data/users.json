@@ -1,0 +1,129 @@
+[
+  {
+    "id": "dd2501ce-d0b9-4149-8151-226053a1882e",
+    "username": "avika",
+    "password": "111",
+    "isTrapped": false
+  },
+  {
+    "id": "f66429f1-a032-45b8-bb70-ac333dc043e8",
+    "username": "admin",
+    "password": "mx",
+    "isTrapped": false
+  },
+  {
+    "id": "28454eac-cce0-474b-af8a-04bb633dd987",
+    "username": "ayush",
+    "password": "12345",
+    "isTrapped": true
+  },
+  {
+    "id": "fd429f1b-356f-4d6a-bf1b-6c9f14a79fd8",
+    "username": "AGT-0345ff@vit",
+    "password": "111",
+    "isTrapped": false,
+    "role": "agent"
+  },
+  {
+    "id": "98ed6b0c-a963-4d14-9111-5c0c220d2897",
+    "username": "AGT-067ff@vit",
+    "password": "111",
+    "isTrapped": false,
+    "role": "agent"
+  },
+  {
+    "id": "10d2b1a1-1999-46dd-8abf-4cb106f0e8a6",
+    "fullName": "gaurav relwani",
+    "username": "AGT-009@vit",
+    "password": "1111",
+    "isTrapped": false,
+    "role": "agent"
+  },
+  {
+    "id": "0f9d4400-a746-4ac7-b9b1-528e955a278c",
+    "fullName": "ayusha",
+    "username": "AGT-098@vit",
+    "password": "12345",
+    "isTrapped": false,
+    "role": "agent"
+  },
+  {
+    "id": "981f1359-f188-4478-aff5-4dd029013c66",
+    "fullName": "udit",
+    "username": "AGT-067@vit",
+    "password": "12345",
+    "isTrapped": false,
+    "role": "agent"
+  },
+  {
+    "id": "54d114d4-3726-4764-b6dc-219fcb8cce5c",
+    "fullName": "gg",
+    "username": "AGT-007@vit",
+    "password": "111",
+    "isTrapped": false,
+    "role": "agent"
+  },
+  {
+    "id": "cb9281a0-8610-42b8-a50e-35f31f15e4c2",
+    "fullName": "gg",
+    "username": "AGT-111@vit",
+    "password": "111",
+    "isTrapped": false,
+    "role": "agent"
+  },
+  {
+    "id": "c8accb75-c8d9-49a9-beec-61f5273d5a8f",
+    "fullName": "harsh",
+    "username": "god-00009@123",
+    "password": "111",
+    "isTrapped": false,
+    "role": "agent"
+  },
+  {
+    "id": "94139761-7e85-49e5-a3f9-c2d69a9e6422",
+    "fullName": "Gaurav",
+    "username": "god-00008@123",
+    "password": "111",
+    "isTrapped": false,
+    "role": "agent"
+  },
+  {
+    "id": "58ef64bb-73bf-4c13-9c54-975aeab349ef",
+    "fullName": "g",
+    "username": "as",
+    "password": "111",
+    "isTrapped": false,
+    "role": "agent"
+  },
+  {
+    "id": "de498fbf-e688-4a40-98b6-b3162329f0c0",
+    "fullName": "ayush",
+    "username": "AGT-008@vit",
+    "password": "Ayush@24",
+    "role": "agent"
+  },
+  {
+    "id": "01172441-ec03-4b25-a5b9-f8a036313d05",
+    "fullName": "Employee",
+    "username": "secure-001@vit",
+    "password": "Gaurav@24",
+    "role": "agent",
+    "isTrapped": false
+  },
+  {
+    "id": "362b752b-a1bd-4be0-a725-fd6f8e69806d",
+    "fullName": "Employee2",
+    "username": "secure-002@vit",
+    "password": "Gaurav@24",
+    "role": "agent",
+    "isTrapped": false
+  },
+  {
+    "id": "270116c8-86c2-42b7-8d6f-ff9153ebbd7f",
+    "fullName": "gotya",
+    "username": "secure-003@vit",
+    "password": "Gota@6767",
+    "role": "agent",
+    "isTrapped": false
+  }
+]
