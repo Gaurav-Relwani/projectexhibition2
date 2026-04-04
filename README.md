@@ -135,6 +135,5 @@ secure-vault/
 ---
 
 ## 🛡️ License
-This project is developed for educational and hackathon purposes. All rights reserved by **Team Innoventure**.
-
+This project is developed for educational and hackathon purposes. All rights reserved by Gaurav-Relwani
 > *"Data is Sovereign. Defense is Active."*
